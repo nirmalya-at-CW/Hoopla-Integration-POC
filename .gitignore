@@ -1,0 +1,7 @@
+/target/
+/project/
+/project/target/
+/bin/
+/.idea/
+*.sc
+
